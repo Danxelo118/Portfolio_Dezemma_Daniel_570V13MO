@@ -1,6 +1,6 @@
 # Titre de l'oeuvre ou de la réalisation
 Machine Hallucinations ISS Dreams
-![demo1.png](photographie/demo1.png) 
+![demo1.jpg](photographie/demo1.jpg) 
 
  # Nom de l'artiste ou de la firme
  Refik Anadol
