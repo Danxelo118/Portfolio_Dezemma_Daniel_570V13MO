@@ -37,3 +37,7 @@ Algorithmes DCGAN, PGAN et StyleGAN, archives numériques, modèles de classific
  J'ai vraiment aimé la visite mais cet oeuvre multimédia m'a attiré l'attention par sa beauté hallucinante. J'était émerveillé par le flot de beauté que je voyais et je me sentais flotter dans l'espace. 
  # Références
  https://refikanadol.com/works/machinehallucinations-iss/
+ 
+ 
+ [![video_puss_in_boots](https://www.youtube.com/xgZLXyqbYOc)]( https://www.youtube.com/watch?v=xgZLXyqbYOc)
+ https://www.youtube.com/watch?v=xgZLXyqbYOc
