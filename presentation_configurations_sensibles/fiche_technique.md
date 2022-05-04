@@ -7,5 +7,8 @@
 ### Chargée du projet : Leila Afriat
 ### Technicienne en muséologie
 
-## technologies employées
-### 
+## Technologies employées
+### Photogrammétrie 
+### Intelligence artificielle
+### Logiciel de réalité augmentée
+
