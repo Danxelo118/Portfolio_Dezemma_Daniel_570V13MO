@@ -10,7 +10,7 @@
 ### Exposition : Béchard Hudon - Configurations du sensible
 
 ## Lieu de mise en exposition
-### la Maiuson des Arts de Laval
+### la Maison des Arts de Laval
 
 ## Date de visite
 ### 16 mars 2022
