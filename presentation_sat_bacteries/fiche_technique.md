@@ -2,7 +2,7 @@
 ## 2020-2022
 
 ### Professeur et rechercheur: Yves Brun
-
+![yves-brun.jpg](photographie/yves-brun.jpg)
 ### Conférence immersive sur la poésie des bactéries
 
 ### La Société des Arts et Technologie, statosphère
@@ -24,6 +24,5 @@
 ### Expérience vécue
 ##
 
-![yves-brun.jpg](photographie/yves-brun.jpg)
 
 ### Référence
