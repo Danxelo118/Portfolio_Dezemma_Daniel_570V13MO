@@ -4,7 +4,7 @@
 ### Professeur et rechercheur: Yves Brun
 ![yves-brun.jpg](photographie/yves-brun.jpg)
 ### Conférence immersive sur la poésie des bactéries
-![la_poesie_des_bacteries6.png](la_poesie_des_bacteries6.png)
+![la_poesie_des_bacteries6.png](photographie/la_poesie_des_bacteries6.png)
 ### La Société des Arts et Technologie, statosphère
 
 ### Visitée le 19 avril 2022
