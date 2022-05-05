@@ -3,7 +3,7 @@
 
 ## Intervenants/Artistes
 
-### Sabin hudon
+### Sabin Hudon
 ### Catherine Béchard 
 
 ## Nom événement
