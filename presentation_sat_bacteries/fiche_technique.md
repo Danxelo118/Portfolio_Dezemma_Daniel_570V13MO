@@ -11,7 +11,8 @@
 ![la_poesie_des_bacteries36.png](photographie/la_poesie_des_bacteries36.png)
 ## Description de l'oeuvre
 ![la_poesie_des_bacteries25.png](photographie/la_poesie_des_bacteries25.png)
-###
+### C'est la conférence de Yves Brun chercheur et professeur qui parle de l’histoire de la découverte des bactéries, leurs rôles dans la nature et chez l’humain, et l’importance de la recherche fondamentale. L’événement met aussi en place la curiosité du chercheur, ses techniques sophistiquées de microscopie, son laboratoire bouillonnant d’activité, son projet de science participative et sa lutte contre l’antibiorésistance.
+
 
 ## Explication sur la mise en place
 ###
@@ -25,6 +26,6 @@
 
 ### Expérience vécue
 ##
-
+![la_poesie_des_bacteries21.png](photographie/la_poesie_des_bacteries21.png)
 
 ### Référence
