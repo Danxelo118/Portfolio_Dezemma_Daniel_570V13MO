@@ -24,4 +24,6 @@
 ### Expérience vécue
 ##
 
+![informations](photographie/informations.jpg
+
 ### Référence
