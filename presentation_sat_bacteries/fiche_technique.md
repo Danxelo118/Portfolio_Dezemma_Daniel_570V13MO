@@ -24,6 +24,6 @@
 ### Expérience vécue
 ##
 
-![informations](photographie/informations.jpg
+![yves-brun](photographie/yves-brun.jpg
 
 ### Référence
