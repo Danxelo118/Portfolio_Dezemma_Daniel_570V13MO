@@ -1,5 +1,5 @@
 # Mon ordre de préférence des projets
-## Mon ordre n'a pas vraiment été changé
+## Mon ordre n'a pas changé
 ## 1. L'Horloge de l'Apocalypse
 C'est mon projet préféré car j'aime bien le concept de fin du monde et de la temporalité. Les effets d'animation m'ont vraiment retenu l'attention.
  Les effets et trames sonores m'ont vraiment immersé dans l'univers de leur projet, je sentais vraiment que j'étais dans un monde sur le point de s'éteindre.
