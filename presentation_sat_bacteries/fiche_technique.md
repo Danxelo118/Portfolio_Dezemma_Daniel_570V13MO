@@ -6,16 +6,18 @@
 ### Conférence immersive sur la poésie des bactéries
 ![la_poesie_des_bacteries6.png](photographie/la_poesie_des_bacteries6.png)
 ### La Société des Arts et Technologie, statosphère
-
+![la_poesie_des_bacteries18.jpg](photographie/la_poesie_des_bacteries18.jpg)
 ### Visitée le 19 avril 2022
 ![la_poesie_des_bacteries36.png](photographie/la_poesie_des_bacteries36.png)
 ## Description de l'oeuvre
+![la_poesie_des_bacteries25.png](photographie/la_poesie_des_bacteries25.png)
 ###
 
 ## Explication sur la mise en place
 ###
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
+
 ###
 
 ### Liste des éléments nécessaires pour la mise en exposition 
