@@ -8,7 +8,7 @@
 ### La Société des Arts et Technologie, statosphère
 
 ### Visitée le 19 avril 2022
-
+![la_poesie_des_bacteries36.png](photographie/la_poesie_des_bacteries36.png)
 ## Description de l'oeuvre
 ###
 
