@@ -1,5 +1,6 @@
 # Présentation sur l'oeuvre l'en deçà de la configuration du sensible 
 ## 2019-2021
+![pic_confg7.jpg](photographie/pic_confg7.jpg)
 
 ## Intervenants/Artistes
 ### Sabin Hudon
@@ -8,7 +9,7 @@
 
 ## Nom événement
 ### Exposition : Béchard Hudon - Configurations du sensible
-
+![pic_confg5.jpg](photographie/pic_confg5.jpg)
 ## Lieu de mise en exposition
 ### la Maison des Arts de Laval
 
@@ -17,6 +18,7 @@
 
 ## Description de l'oeuvre (2022)
 ### C'est une grande structure en bois qui permet d'interagir avec le public à travers de sons émis de la structure. Des sons provenant de la nature  recherchés par les créateurs de l'oeuvre.  
+![pic_confg5.jpg](photographie/pic_confg5.jpg)
 
 ## Explication sur la mise en place
 
