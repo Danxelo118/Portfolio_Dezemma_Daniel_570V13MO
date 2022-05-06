@@ -29,6 +29,5 @@ Dans la place, il se trouve plusieurs oeuvres organisées de façon particulièr
 ##
 
 ### Expérience vécue
-## Le jour de la conférence j'étais arrivé en peu en retard mais j'ai quand même à assister à une partie
-
+## Je trouve vraiment que le projet est très original, je vois rarement un type de projet de cette envergure. C'est vraiment un projet intéressant et montre les efforts que les créateurs ont accomplit pour le faire. Le fait d'aller chercher dans la nature des sons nécessaires pour la réalisation de l'oeuvre est vraiment une preuve de dédication de leur part. L'oeuvre est vraiment immersif et intéressant qui permet aux visiteur comme toi de faire parti de l'oeuvre.
 ### Référence
