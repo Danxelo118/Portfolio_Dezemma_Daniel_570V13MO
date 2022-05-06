@@ -28,5 +28,6 @@ Dans l'espace il y avait des coussins pour permettre aux gens de s'assoir et un 
 ### Expérience vécue
 ##
 ![la_poesie_des_bacteries21.png](photographie/la_poesie_des_bacteries21.png)
+## J'ai vraiment apprécié ce projet car je ne m'y attendais pas. J'étais y aller en ayant des très peu d'attentes envers cette conférence car c'était le dernier projet qu'il restait de disponible mais j'ai finalement vraiment apprécié. Je me sentais transporté dans l'univers microscopiques des bactéries. Les projetctions étaient fluides et de bonnes qualité, Yves Brun avait une bonne élocution quand il faisait sa conférence et m'aidais vraiment à comprendre les informations sur les bactéries. À un moment donné, durant il a affiché une projection vidéo prise par une caméra 360 degré. Et ça m'a vraiment donné une idée pour un projet. Les détails étaient vraiment précise et la vue 360 est vraiment impressionante. 
 
 ### Référence
