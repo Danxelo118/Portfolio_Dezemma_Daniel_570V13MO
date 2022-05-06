@@ -22,11 +22,10 @@
 ## Explication sur la mise en place
 
 ### Dans la place, il se trouve plusieurs oeuvres organisées de façon particulière. Une sorte d'écran projetant des images confusantes ressemblant à une rivière ou un lac. Une structure bois émettant des divers types de sons reliés à l'image. 
-## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
 
-### Liste des éléments nécessaires pour la mise en exposition 
-## Amplificateur: qui permet de émettre le son de façon plus condensé.
+## Liste des éléments nécessaires pour la mise en exposition 
+### Amplificateur: qui permet de émettre le son de façon plus condensé.
 ![pic_confg5.jpg](photographie/pic_confg5.jpg)
 
 ## Expérience vécue
