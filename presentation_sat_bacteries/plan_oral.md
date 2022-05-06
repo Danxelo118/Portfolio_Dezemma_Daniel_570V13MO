@@ -2,25 +2,25 @@
 
 ## L'objectif de mon orale:
 
-##  Expliquer aux autres ce que j'ai appris et compris sur l'oeuvre multimédia que j'ai visité.
+## Expliquer aux autres ce que j'ai appris et compris sur l'oeuvre multimédia que j'ai visité.
 
 # Les aspects qui seront abordés: 
 
-## 1- Les informations sur l'oeuvre et le lieu de'exposition
+## Les informations sur l'oeuvre et le lieu de'exposition
 
-## -Nom de l'exposition
+## Nom de l'exposition
 
-## -Le nom de l'artiste
+## Le nom de l'artiste
 
-## -L'année de réalisation
+## L'année de réalisation
 
-## -Lieu de mise en exposition
+## Lieu de mise en exposition
 
-## -Informations sur le lieux et date de ma visite
+## Informations sur le lieux et date de ma visite
 
 ## La description de mon oeuvre
 
-## - La lise de composantes
+## La lise de composantes
 
 ## Appréciation critique et justifications
 
