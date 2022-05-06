@@ -22,7 +22,7 @@
 
 ## La liste de composantes
 
-## Appréciation critique et justifications
+## Mon appréciation critique et justifications
 
 ## Mon expérience
 
