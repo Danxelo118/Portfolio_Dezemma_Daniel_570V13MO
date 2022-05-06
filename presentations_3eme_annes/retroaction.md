@@ -20,3 +20,5 @@ Premièrement, je trouve que le titre est vraiment original et le jeu de mots es
 
 ## 6. Chère Sasha
 Je trouve que c'est une idée originale, et ça a l'air captivant. Ça me donne l'imression que c'est une série télé qui raconte la vie du personnage principal. Le fait de séparer la vie en deux parties d'un perosnnage et de la raconter distinctement est vraiment intéressant. Si je participerais dans ce projet, je participerais dans les dessins réalisés car un élément que j'aime bien dans ce projet.
+## Référence
+Mes connaissances et photos
