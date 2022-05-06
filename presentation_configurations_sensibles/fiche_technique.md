@@ -18,7 +18,6 @@
 
 ## Description de l'oeuvre (2022)
 ### C'est une grande structure en bois qui permet d'interagir avec le public à travers de sons émis de la structure. Des sons provenant de la nature  recherchés par les créateurs de l'oeuvre.  
-![pic_confg5.jpg](photographie/pic_confg5.jpg)
 
 ## Explication sur la mise en place
 
@@ -27,7 +26,8 @@
 
 
 ### Liste des éléments nécessaires pour la mise en exposition 
-##
+## Amplificateur: qui permet de émettre le son de façon plus condensé.
+![pic_confg5.jpg](photographie/pic_confg5.jpg)
 
 ## Expérience vécue
 ### Je trouve vraiment que le projet est très original, je vois rarement un type de projet de cette envergure. C'est vraiment un projet intéressant et montre les efforts que les créateurs ont accomplit pour le faire. Le fait d'aller chercher dans la nature des sons nécessaires pour la réalisation de l'oeuvre est vraiment une preuve de dédication de leur part. L'oeuvre est vraiment immersif et intéressant qui permet aux visiteur comme toi de faire parti de l'oeuvre.
