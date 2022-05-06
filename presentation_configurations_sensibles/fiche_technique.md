@@ -2,7 +2,6 @@
 ## 2019-2021
 
 ## Intervenants/Artistes
-
 ### Sabin Hudon
 ### Catherine Béchard 
 ### Aseman Sabet
@@ -30,6 +29,6 @@ Dans la place, il se trouve plusieurs oeuvres organisées de façon particulièr
 ##
 
 ### Expérience vécue
-##
+## Le jour de la conférence j'étais arrivé en peu en retard mais j'ai quand même à assister à une partie
 
 ### Référence
