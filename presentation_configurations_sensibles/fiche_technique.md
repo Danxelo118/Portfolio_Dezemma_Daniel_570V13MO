@@ -1,10 +1,11 @@
-# Présentation sur la configuration du sensible 
+# Présentation sur l'oeuvre l'en deçà de la configuration du sensible 
 ## 2019-2021
 
 ## Intervenants/Artistes
 
 ### Sabin Hudon
 ### Catherine Béchard 
+### Aseman Sabet
 
 ## Nom événement
 ### Exposition : Béchard Hudon - Configurations du sensible
@@ -16,7 +17,8 @@
 ### 16 mars 2022
 
 ## Description de l'oeuvre
-### 
+## 2022
+### une grande structure en bois qui permet d'interagir avec le public à travers de sons émis de la structure.  
 
 ## Explication sur la mise en place
 ###
