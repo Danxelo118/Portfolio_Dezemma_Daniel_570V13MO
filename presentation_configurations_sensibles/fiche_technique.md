@@ -18,7 +18,7 @@
 
 ## Description de l'oeuvre
 ## 2022
-### une grande structure en bois qui permet d'interagir avec le public à travers de sons émis de la structure.  
+### C'est une grande structure en bois qui permet d'interagir avec le public à travers de sons émis de la structure.  
 
 ## Explication sur la mise en place
 ###
