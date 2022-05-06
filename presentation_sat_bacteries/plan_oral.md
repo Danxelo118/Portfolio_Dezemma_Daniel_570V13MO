@@ -20,7 +20,7 @@
 
 ## La description de mon oeuvre
 
-## La lise de composantes
+## La liste de composantes
 
 ## Appréciation critique et justifications
 
