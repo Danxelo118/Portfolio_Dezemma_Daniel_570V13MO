@@ -20,10 +20,12 @@
 Dans l'espace il y avait des coussins pour permettre aux gens de s'assoir et un écran qui affichait des projections.
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 
-###
-
-## Liste des éléments nécessaires pour la mise en exposition 
-
+### Projecteur sonore
+![projecteur_sonore.jpg](photographie/projecteur_sonore.jpg)
+### Projecteur vidéo
+![projecteur_image.jfif](photographie/projecteur_image.jfif)
+### Caméra 3D
+![3d.jpg](photographie/3d.jpg)
 
 ## Expérience vécue
 
