@@ -18,11 +18,11 @@
 
 ## Description de l'oeuvre
 ## 2022
-### C'est une grande structure en bois qui permet d'interagir avec le public à travers de sons émis de la structure.  
+### C'est une grande structure en bois qui permet d'interagir avec le public à travers de sons émis de la structure. Des sons provenant de la nature  recherchés par les créateurs de l'oeuvre.  
 
 ## Explication sur la mise en place
 ###
-
+Dans la place, il se trouve plusieurs oeuvres organisées de façon particulière. Une sorte d'écran projetant des images confusantes ressemblant à une rivière ou un lac. Une structure bois émettant des divers types de sons reliés à l'image. 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 ###
 
