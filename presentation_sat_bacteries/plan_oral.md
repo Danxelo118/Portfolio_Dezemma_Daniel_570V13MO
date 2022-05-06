@@ -6,7 +6,7 @@
 
 # Les aspects qui seront abordés: 
 
-## Les informations sur l'oeuvre et le lieu de'exposition
+## Les informations sur l'oeuvre et le lieu d'exposition
 
 ## Nom de l'exposition
 
