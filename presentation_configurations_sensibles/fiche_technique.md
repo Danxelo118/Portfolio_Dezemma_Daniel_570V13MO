@@ -28,6 +28,7 @@ Dans la place, il se trouve plusieurs oeuvres organisées de façon particulièr
 ### Liste des éléments nécessaires pour la mise en exposition 
 ##
 
-### Expérience vécue
-## Je trouve vraiment que le projet est très original, je vois rarement un type de projet de cette envergure. C'est vraiment un projet intéressant et montre les efforts que les créateurs ont accomplit pour le faire. Le fait d'aller chercher dans la nature des sons nécessaires pour la réalisation de l'oeuvre est vraiment une preuve de dédication de leur part. L'oeuvre est vraiment immersif et intéressant qui permet aux visiteur comme toi de faire parti de l'oeuvre.
+## Expérience vécue
+### Je trouve vraiment que le projet est très original, je vois rarement un type de projet de cette envergure. C'est vraiment un projet intéressant et montre les efforts que les créateurs ont accomplit pour le faire. Le fait d'aller chercher dans la nature des sons nécessaires pour la réalisation de l'oeuvre est vraiment une preuve de dédication de leur part. L'oeuvre est vraiment immersif et intéressant qui permet aux visiteur comme toi de faire parti de l'oeuvre.
 ### Référence
+### https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx#:~:text=L'exposition%20Configurations%20du%20sensible,structure%20en%20bois%20aux%20consonances
